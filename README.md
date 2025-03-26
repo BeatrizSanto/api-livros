@@ -14,7 +14,7 @@ Esta é uma API simples feita com Flask e SQLite que permite cadastrar, listar e
     
 
 ``` bash
- git clone <url_do_projeto>
+git clone <url_do_projeto>
 cd nome-do-projeto
 
  ```
